@@ -5,10 +5,6 @@
       "function_file_path": "function_kk/rename_function.py"
     },
     {
-      "function_name": "another_new_function",
-      "function_file_path": "function_kk/another_new_function.py"
-    },
-    {
       "function_name": "angshu_test",
       "function_file_path": "function_ll/angshu_test.py"
     },
